@@ -1,0 +1,10 @@
+name: SnakeGame
+description: Simple gui game copyying the classic snake game in minecraft.
+author: Seabarrel
+version: 1.0.0
+main: me.seabarrel.SnakeGame.SnakeGame
+api-version: 1.17
+commands:
+  snakegame:
+    aliases: [snake, s, sg]
+    description: Opening snake game gui!
